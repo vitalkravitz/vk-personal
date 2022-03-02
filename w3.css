@@ -425,7 +425,7 @@ a {
 }
 
 .w3-ul {
-    list-style-type: square;
+    list-style-type: none;
     padding: 0;
     margin: 0
 }
@@ -1336,39 +1336,39 @@ a {
 }
 
 .w3-border {
-    border: 1px solid #ccc!important
+    border: 1px solid #ffc107!important
 }
 
 .w3-border-top {
-    border-top: 1px solid #ccc!important
+    border-top: 1px solid #ffc107!important
 }
 
 .w3-border-bottom {
-    border-bottom: 1px solid #ccc!important
+    border-bottom: 3px solid #ffc107!important
 }
 
 .w3-border-left {
-    border-left: 1px solid #ccc!important
+    border-left: 1px solid #ffc107!important
 }
 
 .w3-border-right {
-    border-right: 1px solid #ccc!important
+    border-right: 1px solid #ffc107!important
 }
 
 .w3-topbar {
-    border-top: 6px solid #ccc!important
+    border-top: 6px solid #ffc107!important
 }
 
 .w3-bottombar {
-    border-bottom: 6px solid #ccc!important
+    border-bottom: 6px solid #ffc107!important
 }
 
 .w3-leftbar {
-    border-left: 6px solid #ccc!important
+    border-left: 6px solid #ffc107!important
 }
 
 .w3-rightbar {
-    border-right: 6px solid #ccc!important
+    border-right: 6px solid #ffc107!important
 }
 
 .w3-section,
@@ -1702,7 +1702,7 @@ a {
 
 .w3-text-green,
 .w3-hover-text-green:hover {
-    color: #4CAF50!important
+    color: #ffc107!important
 }
 
 .w3-text-light-green,
@@ -1840,7 +1840,7 @@ a {
 
 .w3-border-green,
 .w3-hover-border-green:hover {
-    border-color: #4CAF50!important
+    border-color: #ffc107!important
 }
 
 .w3-border-light-green,
